@@ -1,3 +1,7 @@
+===========================================================================================================
+SUGESTAO: INSTALE O PYRADIO E ADICIONE AS LINHAS ABAIXO NO ARQUIVO: /home/user/.config/pyradio/stations.csv
+===========================================================================================================
+
 RADIO VATICANO (ROMA),https://radio.vaticannews.va/stream-pt
 RADIO NACIONAL (BRASILIA - DF),https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
 RADIO NACIONAL (RIO DE JANEIRO - RJ),https://radionacionalrio-stream.ebc.com.br/index.m3u8
@@ -5,8 +9,8 @@ RADIO NACIONAL (AMAZONHAS - AM),https://radionacionalamazonia-stream.ebc.com.br/
 NACIONAL FM (BRAZIL),https://radionacionalfm-stream.ebc.com.br/index.m3u8
 RADIO MEC (BRAZIL),https://radiomec-stream.ebc.com.br/index.m3u8
 MEC FM (BRAZIL),https://radiomecfm-stream.ebc.com.br/index.m3u8
-LIBERAL FM (BELEM - PA),http://177.105.192.70:9750/liberalfm.mp3
-LIBERAL FM (CASTANHAL - PA),http://177.105.192.70:9401/rdfmcastanhal.mp3
+LIBERAL FM (BELEM - PA),http://177.105.192.70:9750/
+LIBERAL FM (CASTANHAL - PA),http://177.105.192.70:9401/
 LIBMUSIC (BELEM - PA),https://s09.maxcast.com.br:8122/live
 ITAMARATY (PIRIPIRI - PI),http://05.stmip.net:9256/
 RADIO CIDADE DE PIRIPIRI (PIRIPIRI - PI),http://sv11.hdradios.net:8118/stream
